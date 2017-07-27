@@ -1,0 +1,1 @@
+luvcview -s 320x240

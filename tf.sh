@@ -1,0 +1,1 @@
+tensorflow/contrib/pi_examples/camera/gen/bin/camera | xargs -n 1 flite -t
